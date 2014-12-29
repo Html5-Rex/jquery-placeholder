@@ -2,7 +2,7 @@
 
 ## Demo & Examples
 
-[http://mathiasbynens.be/demo/placeholder](http://mathiasbynens.be/demo/placeholder)
+http://mathiasbynens.github.io/jquery-placeholder
 
 ## Example Usage
 
@@ -50,6 +50,12 @@ You can install jquery-placeholder by using [Bower](http://bower.io).
 
 ```bash
 bower install jquery-placeholder
+```
+
+Contributors should install the »dev dependencies« after forking and cloning via [npm](https://www.npmjs.com/).
+
+```bash
+npm install
 ```
 
 ## Notes
